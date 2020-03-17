@@ -26,6 +26,11 @@ main{
 
 h3{
     height: 0px;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 0em;
+    font-weight: bold;
+
     
 }
 
