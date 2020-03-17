@@ -25,7 +25,7 @@ main{
 }
 
 h3{
-    height: 50px;
+    height: 0px;
     
 }
 
@@ -33,7 +33,7 @@ h3{
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 150px;
+    height: 120px;
     width: 100%;
     display: flex;
     font-family: 'Shadows Into Light', cursive;
