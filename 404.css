@@ -17,10 +17,7 @@ main{
     justify-content: center;
     align-items: baseline;
     font-size: 300px;
-    /*font-family: 'Lobster', cursive;
-    font-family: 'Anton', sans-serif;
-    font-family: 'Abril Fatface', cursive;*/
-    font-family: 'Acme', sans-serif;
+    font-family: 'Lobster', cursive;
     color: #4A235A;
 }
 
