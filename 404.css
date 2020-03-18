@@ -20,12 +20,15 @@ main{
     justify-content: center;
     align-items: baseline;
     font-size: 300px;
-    font-family: 'Lobster', cursive;
+    /*font-family: 'Lobster', cursive;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Abril Fatface', cursive;*/
+    font-family: 'Acme', sans-serif;
     color: #4A235A;
 }
 
 h3{
-    height: 0px;
+    height: 30px;
     display: block;
     font-size: 1.17em;
     margin-block-start: 0em;
@@ -77,6 +80,8 @@ a:hover {
 .homer{
     display: flex;
     justify-content: flex-end;
+     margin-block-start: 0em;
 }
 
+footer
 
